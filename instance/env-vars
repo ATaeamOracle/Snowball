@@ -1,0 +1,6 @@
+setx TF_VAR_tenancy_ocid "ocid1.tenancy.oc1..aaaaaaaayqrveavxbu5ydsobx5aity4oy5lwjlr4kvsuza2kf2sgyd6prnha"
+setx TF_VAR_user_ocid "ocid1.user.oc1..aaaaaaaaesncyqg4ggmhni6mgaqtt7sjygxbrr4oiikf4rmwvc6xrvcvd2eq"
+setx TF_VAR_fingerprint "5e:18:15:34:46:9a:aa:85:4e:24:51:fc:18:27:22:93"
+setx TF_VAR_private_key_path "C:\Users\avsaban\.oci\oci_api_key.pem"
+setx TF_VAR_compartment_ocid "ocid1.tenancy.oc1..aaaaaaaayqrveavxbu5ydsobx5aity4oy5lwjlr4kvsuza2kf2sgyd6prnha"
+setx TF_VAR_region "eu-frankfurt-1"
